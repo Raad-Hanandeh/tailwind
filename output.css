@@ -987,6 +987,10 @@ video {
   padding-right: 6rem;
 }
 
+.pr-0 {
+  padding-right: 0px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -1215,6 +1219,10 @@ video {
 
   .md\:pr-24 {
     padding-right: 6rem;
+  }
+
+  .md\:pr-7 {
+    padding-right: 1.75rem;
   }
 
   .md\:text-start {
