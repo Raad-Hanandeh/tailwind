@@ -15,7 +15,8 @@ module.exports = {
       '#333333':'#333333',
       '#3a3a3a':'#3a3a3a',
       'regal-blue': '#243c5a',
-      '#816dfa':'#816dfa'
+      '#816dfa':'#816dfa',
+      '#727272':'#727272'
       },
       maxWidth: {
         'disktop': '76.97rem',
@@ -41,10 +42,20 @@ module.exports = {
         '30PX':'30PX',
         '64px':'64px',
         '77px':'77px',
+        '177px':'177px',
+        '39px':'39px',
+        '64px':'64px',
+        '55px':'55px',
+        '59px':'59px',
+        '390px':'390px',
+        '105px':'105px',
+        '32px':'32px',
+        '14px':'14px',
+        '75px':'75px'
        
       },
       width: {
-       
+        '77px':'77px',
         '404px':'404px',
         '372px':'372px',
         '50px':'50px',
@@ -59,6 +70,18 @@ module.exports = {
         '30PX':'30PX',
         '215px':'215px',
         '123px':'123px',
+        '280px':'280px',
+        '242px':'242px',
+        '312px':'312px',
+        '215px':'215px',
+        '817px':'817px',
+        '393px':'393px',
+        '105px':'105px',
+        '32px':'32px',
+        '211px':'211px',
+        '453px':'453px',
+        '14px':'14px',
+        '318px':'318px'
         
         
       },
@@ -75,7 +98,9 @@ module.exports = {
         '24px':'24px',
         '13px':'13px',
         '16px':'16px',
-        '14px':'14px'
+        '14px':'14px',
+        '32px':'32px',
+        '28px':'28px'
 
       },
       margin: {
@@ -90,18 +115,27 @@ module.exports = {
         '16px':'16px',
         '41px':'41px',
         '18px':'18px',
-        '53px':'53px'
+        '53px':'53px',
+        '12px':'12px',
+        '34px':'34px',
+        '61px':'61px',
+        '98px':'98px',
+        '62px':'62px',
+        '22px':'22px',
+        '107px':'107px',
+        '336px':'336px'
+      
+        
       
       },
       padding: {
         '100px': '100px',
         '53px': '53px',
-        '38px':'38px'
+        '38px':'38px',
+        '61px':'61px'
         
       },
-      fontFamily: {
-        'Poppins': ['"Poppins"',...defaultTheme.fontFamily.Poppins],
-      },
+     
     },
   },
   plugins: [],
