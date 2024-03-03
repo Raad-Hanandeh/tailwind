@@ -135,6 +135,9 @@ module.exports = {
         '61px':'61px'
         
       },
+      fontFamily:{
+        body:["Poppins", "sans-serif"]
+      }
      
     },
   },
